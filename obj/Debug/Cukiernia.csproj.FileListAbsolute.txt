@@ -1,0 +1,15 @@
+C:\Users\Adrianek\Desktop\klos\Cukiernia\Cukiernia\bin\Debug\Cukiernia.exe.config
+C:\Users\Adrianek\Desktop\klos\Cukiernia\Cukiernia\bin\Debug\Cukiernia.exe
+C:\Users\Adrianek\Desktop\klos\Cukiernia\Cukiernia\bin\Debug\Cukiernia.pdb
+C:\Users\Adrianek\Desktop\klos\Cukiernia\Cukiernia\obj\Debug\Cukiernia.csprojResolveAssemblyReference.cache
+C:\Users\Adrianek\Desktop\klos\Cukiernia\Cukiernia\obj\Debug\MainWindow.baml
+C:\Users\Adrianek\Desktop\klos\Cukiernia\Cukiernia\obj\Debug\MainWindow.g.cs
+C:\Users\Adrianek\Desktop\klos\Cukiernia\Cukiernia\obj\Debug\App.g.cs
+C:\Users\Adrianek\Desktop\klos\Cukiernia\Cukiernia\obj\Debug\Cukiernia_MarkupCompile.cache
+C:\Users\Adrianek\Desktop\klos\Cukiernia\Cukiernia\obj\Debug\Cukiernia.g.resources
+C:\Users\Adrianek\Desktop\klos\Cukiernia\Cukiernia\obj\Debug\Cukiernia.Properties.Resources.resources
+C:\Users\Adrianek\Desktop\klos\Cukiernia\Cukiernia\obj\Debug\Cukiernia.csproj.GenerateResource.Cache
+C:\Users\Adrianek\Desktop\klos\Cukiernia\Cukiernia\obj\Debug\Cukiernia.exe
+C:\Users\Adrianek\Desktop\klos\Cukiernia\Cukiernia\obj\Debug\Cukiernia.pdb
+C:\Users\Adrianek\Desktop\klos\Cukiernia\Cukiernia\obj\Debug\OknoPoAkceptacji.baml
+C:\Users\Adrianek\Desktop\klos\Cukiernia\Cukiernia\obj\Debug\OknoPoAkceptacji.g.cs
